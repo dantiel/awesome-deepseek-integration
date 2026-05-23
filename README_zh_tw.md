@@ -33,7 +33,8 @@
     - [Visual Studio 擴充功能](#visual-studio-擴充功能)
     - [neovim 擴充功能](#neovim-擴充功能)
     - [JetBrains 擴充功能](#jetbrains-擴充功能)
-    - [Discord 機器人](#discord-機器人)
+    - [JetBrains 擴充功能](#jetbrains-擴充功能)
+    - [TextMate 擴充功能](#textmate-擴充功能)
     - [原生 AI 程式碼編輯器](#原生-ai-程式碼編輯器)
     - [Emacs](#emacs)
     - [安全性](#安全性)
@@ -916,6 +917,18 @@
 
 <p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 
+
+###  <span id="textmate">TextMate 擴充功能</span>
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/dantiel/aethercodex/main/icon.png" alt="æthercodex 標誌" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/dantiel/aethercodex"> æthercodex </a> </td>
+        <td> æthercodex 是一個將 DeepSeek AI 與赫爾墨斯程式設計原則結合的尖端 TextMate 外掛程式。它提供主動式程式碼建議、智慧分析、基於記憶的上下文保持，以及多步驟煉金術任務引擎——所有功能都通過優雅的神秘介面呈現。 </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目錄">^ 返回目錄 ^</a></p>
 ###  <span id="discord">Discord 機器人</span>
 
 <table>

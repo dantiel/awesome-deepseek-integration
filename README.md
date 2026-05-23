@@ -32,6 +32,7 @@ English / [简体中文](https://github.com/deepseek-ai/awesome-deepseek-integra
     - [Visual Studio Extensions](#visual-studio-extensions)
     - [neovim Extensions](#neovim-extensions)
     - [JetBrains Extensions](#jetbrains-extensions)
+    - [TextMate Extensions](#textmate-extensions)
     - [Discord Bots](#discord-bots)
     - [Native AI Code Editor](#native-ai-code-editor)
     - [Emacs](#emacs)
@@ -1072,6 +1073,18 @@ The purpose is to build infrastructure in the field of large models, through the
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
+
+###  <span id="textmate">TextMate Extensions</span>
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/dantiel/aethercodex/main/icon.png" alt="æthercodex Logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/dantiel/aethercodex"> æthercodex </a> </td>
+        <td> æthercodex is a sophisticated TextMate plugin that integrates DeepSeek AI with hermetic programming principles. It provides proactive code suggestions, intelligent analysis, memory-based context retention, and a multi-step alchemical task engine — all through an elegant mystical interface. </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 ###  <span id="discord">Discord Bots</span>
 
 <table>

@@ -33,6 +33,7 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
     - [Extensiones de Visual Studio](#extensiones-de-visual-studio)
     - [Extensiones de Neovim](#extensiones-de-neovim)
     - [Extensiones de JetBrains](#extensiones-de-jetbrains)
+    - [Extensiones de TextMate](#extensiones-de-textmate)
     - [Bots de Discord](#bots-de-discord)
     - [Editor de Código Nativo con IA](#editor-de-código-nativo-con-ia)
     - [Emacs](#emacs)
@@ -851,6 +852,18 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
 
 <p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 
+
+###  <span id="textmate">Extensiones de TextMate</span>
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/dantiel/aethercodex/main/icon.png" alt="æthercodex Logo" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/dantiel/aethercodex"> æthercodex </a> </td>
+        <td> æthercodex es un sofisticado plugin de TextMate que integra DeepSeek AI con principios de programación hermética. Proporciona sugerencias de código proactivas, análisis inteligente, retención de contexto basada en memoria y un motor de tareas alquímicas de múltiples pasos, todo a través de una elegante interfaz mística. </td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#tabla-de-contenidos">^ Volver al índice ^</a></p>
 ###  <span id="discord">Bots de Discord</span>
 
 <table>

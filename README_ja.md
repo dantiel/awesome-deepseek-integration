@@ -31,7 +31,8 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
     - [VS Code 拡張機能](#vs-code-拡張機能)
     - [neovim 拡張機能](#neovim-拡張機能)
     - [JetBrains 拡張機能](#jetbrains-拡張機能)
-    - [AI コードエディタ](#ai-コードエディタ)
+    - [JetBrains 拡張機能](#jetbrains-拡張機能)
+    - [TextMate 拡張機能](#textmate-拡張機能)
     - [Emacs](#emacs)
     - [その他](#その他)
 
@@ -758,6 +759,18 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://intellij-translation.yiiguxing.top/#/ja/">IntelliJ Translation Plugin</a> </td>
         <td> IntelliJベースのIDE向け翻訳プラグイン。OpenAI Translator（DeepSeek・Doubao・Ollamaなど互換）を含む複数翻訳サービスを統合し、IDE内でコメントやドキュメント等のコードテキストを随時直接翻訳可能にします。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目次">^ 目次に戻る ^</a></p>
+
+###  <span id="textmate">TextMate 拡張機能</span>
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/dantiel/aethercodex/main/icon.png" alt="æthercodex ロゴ" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/dantiel/aethercodex"> æthercodex </a> </td>
+        <td> æthercodex は、DeepSeek AI をヘルメティックプログラミング原則と統合した洗練された TextMate プラグインです。プロアクティブなコード提案、インテリジェント分析、メモリベースのコンテキスト保持、マルチステップの錬金術タスクエンジンを提供します。 </td>
     </tr>
 </table>
 

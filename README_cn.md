@@ -32,7 +32,8 @@
     - [VS Code 插件](#vs-code-插件)
     - [neovim 插件](#neovim-插件)
     - [JetBrains 插件](#jetbrains-插件)
-    - [AI Code编辑器](#ai-code编辑器)
+    - [JetBrains 插件](#jetbrains-插件)
+    - [TextMate 扩展](#textmate-扩展)
     - [安全](#安全)
     - [其它](#其它)
 
@@ -878,6 +879,18 @@
         <td> <img src="https://github.com/YiiGuxing/TranslationPlugin/blob/master/pluginIcon.svg?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://intellij-translation.yiiguxing.top">IntelliJ Translation Plugin</a> </td>
         <td> IntelliJ Translation Plugin 是一个适用于基于 IntelliJ 的 IDE 的翻译插件，它集成了包括 OpenAI 翻译（兼容 DeepSeek，Doubao，Ollama，……）在内的众多翻译服务，让您能够随时在 IDE 中直接翻译代码中的任何文本，如代码注释和代码文档等。</td>
+    </tr>
+</table>
+
+<p style="text-align: right;"><a href="#目录">^ 返回目录 ^</a></p>
+
+###  <span id="textmate">TextMate 扩展</span>
+
+<table>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/dantiel/aethercodex/main/icon.png" alt="æthercodex 图标" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/dantiel/aethercodex"> æthercodex </a> </td>
+        <td> æthercodex 是一个将 DeepSeek AI 与赫尔墨斯编程原理相结合的 TextMate 插件。它提供主动代码建议、智能分析、基于记忆的上下文保持以及多步骤炼金术任务引擎——所有这些都通过优雅的神秘界面呈现。 </td>
     </tr>
 </table>
 
